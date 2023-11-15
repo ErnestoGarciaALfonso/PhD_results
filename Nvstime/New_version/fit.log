@@ -1,0 +1,310 @@
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'LiSpherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=B*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   B            
+   0 2.3069676070e+00   0.00e+00  2.80e+00    1.000000e+00
+   3 6.0191096973e-01  -3.13e-02  2.80e-03    1.208297e+00
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.601911
+rel. change during last iteration : -3.13494e-07
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.387915
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.150478
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+B               = 1.2083           +/- 0.06188      (5.121%)
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'LiBarcelona_Spherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: z(x)
+	z(x)=A*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A            
+   0 8.2471227986e+00   0.00e+00  2.65e+00    1.000000e+00
+   3 3.6526607815e-01  -1.22e-01  2.65e-03    1.431759e+00
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.365266
+rel. change during last iteration : -1.2192e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.270284
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0730532
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 1.43176          +/- 0.04157      (2.903%)
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'NaSpherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=B*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   B            
+   0 7.0487471049e+01   0.00e+00  7.11e+00    1.208297e+00
+   3 8.2222740976e-01  -9.38e-01  7.11e-03    5.740296e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.822227
+rel. change during last iteration : -9.37662e-06
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.453384
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.205557
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+B               = 0.57403          +/- 0.03445      (6.002%)
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'NaBarcelona_Spherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: z(x)
+	z(x)=A*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A            
+   0 7.9815864340e+01   0.00e+00  7.44e+00    1.431759e+00
+   4 2.8654591678e-01  -3.29e-10  7.44e-04    7.315614e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.286546
+rel. change during last iteration : -3.29333e-15
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.239393
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0573092
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 0.731561         +/- 0.0188       (2.569%)
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'KSpherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=B*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   B            
+   0 5.3144018855e+00   0.00e+00  4.30e+00    5.740296e-01
+   3 1.0426001716e+00  -4.53e-02  4.30e-03    4.505683e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.0426
+rel. change during last iteration : -4.53435e-07
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.510539
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.26065
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+B               = 0.450568         +/- 0.0305       (6.769%)
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'KBarcelona_Spherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: z(x)
+	z(x)=A*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A            
+   0 4.2810531444e+00   0.00e+00  4.55e+00    7.315614e-01
+   3 7.7303042530e-01  -2.56e-02  4.55e-03    6.087391e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.77303
+rel. change during last iteration : -2.56402e-07
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.3932
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.154606
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 0.608739         +/- 0.02578      (4.236%)
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'RbSpherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=B*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   B            
+   0 5.1409270663e+00   0.00e+00  2.51e+00    4.505683e-01
+   3 1.5183532157e+00  -2.64e-02  2.51e-03    6.033801e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.51835
+rel. change during last iteration : -2.64038e-07
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.616107
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.379588
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+B               = 0.60338          +/- 0.04947      (8.198%)
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'RbBarcelona_Spherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: z(x)
+	z(x)=A*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A            
+   0 2.9374743961e+00   0.00e+00  3.30e+00    6.087391e-01
+   3 1.6198495026e+00  -4.60e-03  3.30e-03    6.951361e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.61985
+rel. change during last iteration : -4.59592e-08
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.569184
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.32397
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 0.695136         +/- 0.04284      (6.163%)
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'CsSpherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=B*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   B            
+   0 1.0378760392e+01   0.00e+00  4.80e+00    6.033801e-01
+   3 4.9509819012e-01  -2.21e-01  4.80e-03    4.265596e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.495098
+rel. change during last iteration : -2.20927e-06
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.351816
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.123775
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+B               = 0.42656          +/- 0.01979      (4.639%)
+
+
+*******************************************************************************
+Fri Jul  7 14:57:29 2023
+
+
+FIT:    data read from 'CsBarcelona_Spherical-average-spline' u 2:1
+        format = x:z
+        function range restricted to [0.00000 : 6.00000]
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: z(x)
+	z(x)=A*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A            
+   0 2.2033700310e+01   0.00e+00  5.69e+00    6.951361e-01
+   3 4.1266522101e-01  -2.96e-01  5.69e-03    4.634263e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.412665
+rel. change during last iteration : -2.96029e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.287286
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.082533
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 0.463426         +/- 0.01432      (3.089%)
